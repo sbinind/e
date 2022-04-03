@@ -1,0 +1,21 @@
+{
+    "db": {
+        "db": "",
+        "db_host": "",
+        "db_port": "",
+        "db_user": "",
+        "db_pass": "",
+        "db_name": ""
+    },
+    "server": {
+        "listen_host": "0.0.0.0",
+        "listen_port": 8080,
+        "flask_debug": 1
+    },
+    "encryption": {
+        "user_pass_salt": ""
+    },
+    "modules_dir": "./modules",
+    "static_dir": "./static",
+    "media_dir": "$static/media"
+}

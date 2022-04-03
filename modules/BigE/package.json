@@ -1,0 +1,12 @@
+{
+    "AUTHOR": "The E project",
+    "EMAIL": "casualsnek@pm.me",
+    "VERSION": "1.0",
+    "DESCRIPTION": "Default E Blog theme",
+    "WEBSITE": "https://sbin.name.np/theE",
+    "LICENSE": "GPLv2",
+    "LICENSE_URL": "https://gnu.org/gpl.html",
+    "TYPE": "usertheme",
+    "DEPENDS": ["eadministration"],
+    "PROVIDES": ["bigetheme", "defaulttheme"]
+}
